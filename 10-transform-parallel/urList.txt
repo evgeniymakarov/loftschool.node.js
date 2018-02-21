@@ -1,0 +1,5 @@
+https://loftschool.com/api/v1/courses/streams/1
+https://loftschool.com/api/v1/courses/streams/2
+https://loftschool.com/api/v1/courses/streams/3
+https://loftschool.com/api/v1/courses/streams/6
+https://loftschool.com/api/v1/courses/streams/21
